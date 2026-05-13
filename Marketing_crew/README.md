@@ -4,4 +4,4 @@ This is an agentic Marketing Crew consisting of a Head of Marketing, a Creative 
 
 
 ---
-Copyright©️ Codebasics Inc. All rights reserved.
+Copyright©️ Abdul Musawir. All rights reserved.
